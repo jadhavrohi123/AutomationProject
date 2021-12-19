@@ -1,0 +1,13 @@
+--insert into Bank_info(Srno,CityName,adharno,pannumber,stream,bankname)values(100,'karad',66554477,123,'IT','BankofIndia');
+--insert into Bank_info(Srno,CityName,adharno,pannumber,stream,bankname)values(101,'pune',66554478,654,'science','ICICI');
+--insert into Bank_info(Srno,CityName,adharno,pannumber,stream,bankname)values(102,'Mumbai',66554479,789,'commers','BOB');
+
+--insert into Bank_info(Srno,CityName,adharno,pannumber,stream,bankname)values(103,'Delhi',66554480,852,'Arts','SBI');
+
+
+
+
+
+
+create table Bank_info (Srno integer,CityName varchar(20),adharno integer,pannumber integer,stream varchar(30),bankname varchar(20));
+--insert into Bank_info (Srno,CityName,adharno,pannumber,stream,bankname)values(100,karad,66554477,123,IT,BankofIndia);
